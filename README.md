@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 My Portfolio website [https://lokeshkavisth.github.io/lokeshkavisth.io/#](https://lokeshkavisth.github.io/lokeshkavisth.io/#)
+- 👨‍💻 My Portfolio website [https://lokeshkavisth.vercel.app](https://lokeshkavisth.vercel.app)
 
 - 📫 How to reach me **lokeshkavisth.webdev@gmail.com**
 
