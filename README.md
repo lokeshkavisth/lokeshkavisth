@@ -6,7 +6,9 @@
 # <div align="center">I'm Lokesh, a frontend web developer 👨‍💻 learning since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [CodeSlimmer](https://github.com/lokeshkavisth)  
+<!-- - 🔭 I’m currently working on [CodeSlimmer](https://github.com/lokeshkavisth)   -->
+- 🔭 I’m currently working on [Myself](https://github.com/lokeshkavisth)  
+
   
 
 - 🌱 I’m currently learning React and TypeScript  
