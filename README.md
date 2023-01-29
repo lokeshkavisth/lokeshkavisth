@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning React and TypeScript
   
 
-- ❓ Ask me about anything related to CSS/Scss and related technologies
+- ❓ Ask me anything about CSS/Scss and related technologies
   
 
 - ⚡ Fun fact: I don't know
