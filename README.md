@@ -11,13 +11,13 @@
 
   
 
-- 🌱 I’m currently learning React and TypeScript  
+- 🌱 I’m currently learning React and TypeScript
   
 
-- ❓ Ask me about anything related to CSS/Scss and related technologies  
+- ❓ Ask me about anything related to CSS/Scss and related technologies
   
 
-- ⚡ Fun fact: I don't know  
+- ⚡ Fun fact: I don't know
   
 
 <br/>  
