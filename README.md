@@ -4,18 +4,16 @@
   My Name is Lokesh Sharma
 </h1>
 
-<h3 align="center">Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full Stack Web Developer | Tech Enthusiast | Open Source Contributor</h3>
 
 ---
-
-![visitors](https://vbr.wocr.tk/badge?page_id=lokeshkavisth.lokeshkavisth&color=00cf00)
 
 - 🌍  I'm based in INDIA
 - 🖥️  See my portfolio at [Portfolio](http://lokeshkavisth.vercel.app)
 - ✉️  You can contact me at [Gmail](mailto:lokeshkavisth.dev@gmail.com)
 - 🧠  Currently I'm learning NodeJS, Express
-- ❓  Ask me about anything😅
-- 😆  I love everything😅
+- ❓  Ask me anything about MERN Stack
+- 😆  I love React
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -38,7 +36,6 @@
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'></a>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></a>
-<a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></a>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
