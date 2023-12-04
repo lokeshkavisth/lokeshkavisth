@@ -4,7 +4,7 @@
   My Name is Lokesh Sharma
 </h1>
 
-<h3 align="center">Full Stack Web Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 ---
 
