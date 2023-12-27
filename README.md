@@ -37,7 +37,13 @@ Hello, my name is Lokesh Sharma, and I am a Full Stack Web Developer living in J
 - ❓ Ask me about anything related to **MERN stack** and related technologies  
   
 
-- 🐞 Fun fact: I turn bugs into features; debugging is just my code's way of evolving.  
+- 🐞 Fun fact: I turn bugs into features; debugging is just my code's way of evolving.
+
+
+- 📧 You can contact me at [**Gmail**](mailto:lokeshkavisth.dev@gmail.com)
+
+
+- 🌐 See my website at [**Portfolio**](https://lokeshkavisth.vercel.app) 
   
 
 <br/>  
