@@ -1,21 +1,49 @@
-<h1 align='center'>
-  Hi,
-  <img src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'/>
-  My Name is Lokesh Sharma
-</h1>
+## Hello👋, I'm Lokesh Sharma!  
+  
 
-<h3 align="center">MERN Stack Web Developer</h3>
+<a href="https://github.com/lokeshkavisth" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/lokeshkavisth" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lokeshkavisth" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@lokeshkavisth" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/lokeshkavisth" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+  
 
----
 
-- 🌍  I'm based in INDIA
-- 🖥️  See my portfolio at [Portfolio](http://lokeshkavisth.vercel.app)
-- ✉️  You can contact me at [Gmail](mailto:lokeshkavisth.dev@gmail.com)
-- 🧠  I'm currently working on [Reserve](https://github.com/lokeshkavisth/Reserve)
-- ❓  Ask me anything about MERN Stack
-- 😆  I love React
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+### Glad to see you here!  
+Hello, my name is Lokesh Sharma, and I am a Full Stack Web Developer living in Jaipur, India. As a developer, I am skilled in JavaScript, React.js, Node.js, Express.js, MongoDB, and other Web Development tools and technologies. I am an extremely driven and goal-oriented person. I'm constantly eager to pick up new skills and am always searching for methods to get better at what I do.  
+  
+
+<br/>  
+
+
+## Rapidfire  
+-  🧑‍💻 I’m currently working on [**Reserve**](https://github.com/lokeshkavisth/Reserve)  
+  
+
+- 🌱 I’m currently learning **MERN Stack**  
+  
+
+- ❓ Ask me about anything related to **MERN stack** and related technologies  
+  
+
+- 🐞 Fun fact: I turn bugs into features; debugging is just my code's way of evolving.  
+  
+
+<br/>  
+
+
+<h2>Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/lokeshkavisth?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -43,15 +71,25 @@
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 
-## My Latest GitHub Metrics 🕸
 
-![Metrics](https://metrics.lecoq.io/lokeshkavisth?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
+<br/>
 
-## How to Reach Me?
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lokeshkavisth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/lokeshkavisth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lokeshkavisth&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
----
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshkavisth&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lokeshkavisth&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+
+
+
+
+
