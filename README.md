@@ -19,9 +19,5 @@ I am a **Full-Stack Web Developer** with a strong focus on building scalable and
 - **Leetcode:** [leetcode.com/u/lokeshkavisth/](https://leetcode.com/u/lokeshkavisth/)
 - **Bluesky:** [bsky.app/profile/lokeshkavisth.bsky.social](https://bsky.app/profile/lokeshkavisth.bsky.social)
 
-## GitHub Stats
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshkavisth&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshkavisth&layout=compact&theme=default)
-
 ---
 Thank you for visiting my profile.
